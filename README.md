@@ -1,3 +1,5 @@
+# DEPRECATED! Use https://github.com/bze-alphateam/insight-ui-bzedge-v2 instead of this repository
+
 # Insight UI
 
 A Bitcoin blockchain explorer web application service for [Bitcore Node](https://github.com/bitpay/bitcore-node) using the [Insight API](https://github.com/str4d/insight-api-zcash).
